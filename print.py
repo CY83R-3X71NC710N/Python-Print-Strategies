@@ -22,6 +22,6 @@ print("Hello World")  # This line prints Hello World
 # add the hashtag symbol
 # each time
 
-""" Docstrings are pretty cool
+"""Docstrings are pretty cool
 for writing longer comments
 or notes about the code"""
